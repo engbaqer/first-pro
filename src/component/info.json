@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Cristiano_Ronaldo_WC2022_-_01.jpg/220px-Cristiano_Ronaldo_WC2022_-_01.jpg",
+    "name": "C.Ronaldo",
+    "position": "ST",
+    "price": "400 M USD "
+  },
+  {
+    "id": "2",
+    "img": "https://m.media-amazon.com/images/M/MV5BZmVmOWY4NTMtYjk5YS00YzE4LThmYzMtNGFiNDE2ZDQ3MjRjXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+    "name": "Leo Messi",
+    "position": "RF",
+    "price": "350 M USD "
+  },
+  {
+    "id": "3",
+    "img": "https://pbs.twimg.com/media/F3mnEYgXcAE3ELZ?format=jpg&name=large",
+    "name": "Nemar jr",
+    "position": "CAM",
+    "price": "280 M USD "
+  }
+]

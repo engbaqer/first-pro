@@ -1,0 +1,32 @@
+header{
+    border-bottom: 2px solid #dbd9d9;
+    background-color: #eee;
+}
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+header ul {
+  list-style-type: none;
+  display: flex;
+  margin-top: 25px;
+}
+header ul li{
+    margin-left: 30px;
+    font-size: 18px;
+    font-weight: 600;
+    cursor: pointer;
+}
+button{
+  background-color: rgb(27, 27, 27);
+  color: #fff;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  padding: 6px 12px;
+  font-weight: 600;
+}
+
+
